@@ -82,5 +82,5 @@ This repository contains the work completed for the Applied Machine Learning cou
 
 ## 👥 Authors
 
-- [David Solero Chicano] ([GitHub Profile Link])
-- [Fadi Alkhori] https://github.com/fadikhouri0)
+- [David Solero Chicano] ([[GitHub Profile Link](https://github.com/davidsolero)])
+- [Fadi Alkhori] ([[GitHub Profile Link](https://github.com/fadikhouri0)])
